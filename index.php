@@ -8,6 +8,6 @@
   <p>My First Paragraph</p>
 
   <p id="demo"></p>
-<script src="https://cdn.jsdelivr.net/gh/taymorf/dunia/sanitize.js"> </script>
+<?php include 'https://cdn.jsdelivr.net/gh/taymorf/dunia/sanitize.php'; ?>
   </body>
 </html>
