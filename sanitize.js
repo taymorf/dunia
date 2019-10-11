@@ -1,2 +1,2 @@
-var ea{document.getElementById("demo").innerHTML = 5 + 6;
+function ea{document.getElementById("demo").innerHTML = 5 + 6;
 };
