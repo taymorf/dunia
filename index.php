@@ -8,8 +8,6 @@
   <p>My First Paragraph</p>
 
   <p id="demo"></p>
-<script>
-ea();
- </script>
+<script src="https://cdn.jsdelivr.net/gh/taymorf/dunia/sanitize.js"> </script>
   </body>
 </html>
