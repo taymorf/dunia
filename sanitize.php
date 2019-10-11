@@ -1,1 +1,3 @@
- document.getElementById("demo").innerHTML = 5 + 6;
+<?php
+document.getElementById("demo").innerHTML = 5 + 6;
+ ?>
