@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-<script src="https://cdn.jsdelivr.net/gh/taymorf/dunia/sanitize.js"></script>
     <title></title>
   </head>
   <body>
