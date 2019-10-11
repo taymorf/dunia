@@ -5,9 +5,10 @@
     <title></title>
   </head>
   <body>
-    <form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
-   Name: <input type="text" name="fname">
-   <input type="submit" value="Submit">
-   </form> 
+    <h1>My First Web Page</h1>
+  <p>My First Paragraph</p>
+
+  <p id="demo"></p>
+
   </body>
 </html>
